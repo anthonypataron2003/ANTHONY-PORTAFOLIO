@@ -1,65 +1,138 @@
-# Portafolio|Anthony
+# Portafolio Web | Anthony Pataron
 
-Portafolio web personal construido con HTML5 semántico, CSS propio (con variables/custom properties) y JavaScript nativo, sin frameworks ni build tools. Diseño en tema oscuro (carbón + teal) con opción de tema claro.
+Portafolio web personal de **Anthony Pataron**, estudiante de Ingeniería en Software en la Universidad Estatal de Milagro (UNEMI). El sitio presenta información profesional, habilidades técnicas, proyectos destacados, un pequeño Design System y una sección de contacto.
 
-![Vista previa del portafolio](anthony-shot.png)
+El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properties) y JavaScript nativo**, sin frameworks ni build tools, manteniendo una estructura simple, fácil de entender y lista para publicarse con GitHub Pages.
 
-## Estructura
+## Sitio publicado
+
+[Ver portafolio en GitHub Pages](https://TU-USUARIO.github.io/TU-REPO/)
+
+## Tabla de contenido
+
+- [Sitio publicado](#sitio-publicado)
+- [Características](#características)
+- [Vista previa](#vista-previa)
+- [Tecnologías](#tecnologías)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Secciones del sitio](#secciones-del-sitio)
+- [Funcionalidades JavaScript](#funcionalidades-javascript)
+- [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto)
+- [Control de versiones](#control-de-versiones)
+- [Publicar en GitHub Pages](#publicar-en-github-pages)
+- [Autor](#autor)
+
+## Características
+
+- Diseño en tema oscuro (carbón + teal) con opción de tema claro.
+- Navegación clara entre secciones mediante anclas internas.
+- Sección de habilidades con niveles por tecnología.
+- Proyectos destacados con modal de detalle y enlaces a repositorio y demo.
+- Design System con variables de color, tipografía, espaciado y componentes reutilizables.
+- Efecto de máquina de escribir en la presentación.
+- Formulario de contacto con validación básica.
+- Diseño responsive para computadora, tablet y teléfono.
+- Código separado en archivos de HTML, CSS y JavaScript.
+
+## Vista previa
+
+<img width="1339" height="631" alt="image" src="https://github.com/user-attachments/assets/baac2110-ab11-4c74-a955-55b5eef031d7" />
+
+## Tecnologías
+
+| Tecnología | Uso en el proyecto |
+| --- | --- |
+| HTML5 | Estructura semántica del sitio |
+| CSS3 | Estilos, layout responsive, variables y tema claro/oscuro |
+| JavaScript | Menú, tema, filtro de proyectos, modal y formulario |
+| Git / GitHub | Control de versiones y repositorio remoto |
+| GitHub Pages | Publicación del portafolio |
+
+## Estructura del proyecto
 
 ```
 portfolio/
 ├── assets/
 │   ├── css/
-│   │   └── styles.css       Sistema de diseño: variables, componentes, responsive, tema claro/oscuro
+│   │   └── styles.css        Sistema de diseño: variables, componentes, responsive, tema claro/oscuro
 │   ├── icons/
-│   │   └── favicon.svg      Ícono de la pestaña del navegador
+│   │   └── favicon.svg       Ícono de la pestaña del navegador
 │   ├── images/
-│   │   └── foto-anthony.jpg Foto de perfil (hero y "Sobre mí")
+│   │   └── foto-anthony.jpg  Foto de perfil (hero y "Sobre mí")
 │   └── js/
-│       └── main.js          Menú responsive, tema claro/oscuro, filtro de proyectos,
-│                            modal de proyecto y validación de formulario
-├── index.html               Portafolio completo en una sola página
+│       └── main.js           Menú, tema, filtro, modal de proyecto y validación de formulario
+├── index.html                Portafolio completo en una sola página
 └── README.md
+```
 
-## Entrada del portafolio
+## Secciones del sitio
 
-index.html contiene las secciones Inicio, Sobre mí, Habilidades, Proyectos, Design System
-y Contacto. La navegación funciona mediante anclas internas, por lo que ya no se necesitan
-otros archivos HTML.
+- **Inicio:** presentación profesional, foto de perfil y accesos principales.
+- **Sobre mí:** información académica, perfil profesional e intereses.
+- **Habilidades:** tecnologías con su nivel de dominio.
+- **Proyectos:** tarjetas de proyectos con filtro y modal de detalle.
+- **Design System:** paleta, tipografía, espaciados y componentes usados.
+- **Contacto:** enlaces profesionales y formulario de contacto.
 
-## Antes de entregar — pendientes para ti
+La navegación funciona con anclas internas, por lo que no se necesitan otros archivos HTML.
 
-1. **Correo y GitHub reales**: revisa los datos de contacto de `index.html` si necesitas
-   cambiarlos. También puedes ajustar la lista de `data-words` en el
-   `<strong data-typewriter>` para cambiar las frases de la "máquina de escribir".
-2. **Enlaces de repositorio/demo por proyecto**: en `index.html`, cada `<article class="project-card">`
-   puede llevar los atributos `data-repo="https://..."` y `data-demo="https://..."` para que el modal
-   muestre esos enlaces automáticamente (si no se agregan, el botón correspondiente se oculta).
-3. Revisa los niveles de habilidad en `index.html`: están puestos según tu experiencia descrita,
-   ajústalos si no reflejan lo que puedes justificar en la sustentación.
+## Funcionalidades JavaScript
 
-## Git y control de versiones
+- Menú responsive para pantallas pequeñas.
+- Cambio entre tema claro y oscuro.
+- Filtro de proyectos por categoría.
+- Modal de proyecto con enlaces a repositorio y demo (se ocultan si no existen).
+- Validación básica del formulario de contacto.
+- Efecto de máquina de escribir configurable con `data-words`.
 
-bash
+## Cómo ejecutar el proyecto
+
+**Opción simple:**
+
+1. Descarga o clona el repositorio.
+2. Abre el archivo `index.html` en el navegador.
+
+**Opción con servidor local:**
+
+```bash
+python -m http.server 5500
+```
+
+Luego abre en el navegador: <http://localhost:5500>
+
+## Control de versiones
+
+```bash
 cd portfolio
 git init
 git add .
 git commit -m "Estructura base: HTML semántico y sistema de diseño"
+```
 
-Haz commits separados por avance (no un único commit final), por ejemplo:
-estructura HTML de las 6 páginas
-sistema de diseño en CSS (variables, componentes)
-interactividad en JavaScript (menú, tema, filtro, modal, formulario)
-ajustes de contenido y datos reales de contacto
+Los commits se hicieron por avance:
+
+- Estructura HTML del portafolio.
+- Sistema de diseño en CSS (variables, componentes).
+- Interactividad en JavaScript (menú, tema, filtro, modal, formulario).
+- Ajustes de contenido y datos reales de contacto.
 
 ## Publicar en GitHub Pages
 
-1. Crea un repositorio público en GitHub y súbelo:
-   bash
+1. Crea un repositorio público en GitHub y sube el proyecto:
+
+   ```bash
    git remote add origin https://github.com/TU-USUARIO/TU-REPO.git
    git branch -M main
    git push -u origin main
    ```
-2. En GitHub: **Settings → Pages → Source** selecciona la rama `main` y la carpeta `/ (root)`.
-3. Espera a que se genere la URL pública (algo como `https://TU-USUARIO.github.io/TU-REPO/`).
+
+2. En GitHub ve a **Settings → Pages → Source** y selecciona la rama `main` y la carpeta `/ (root)`.
+3. Espera a que se genere la URL pública: `https://TU-USUARIO.github.io/TU-REPO/`.
+
+## Autor
+
+**Anthony Pataron**
+
+- GitHub:https://github.com/anthonypataron2003
+- Email: anthonypataron0@gmail.com
 
