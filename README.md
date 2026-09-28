@@ -30,9 +30,12 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 <img width="1343" height="539" alt="image" src="https://github.com/user-attachments/assets/e4c68e5f-7d73-441f-8cf7-feb508f04b17" />
 
 ## Tecnologías y Competencias 
+
 <img width="934" height="582" alt="image" src="https://github.com/user-attachments/assets/21375f90-4aa5-4011-8376-1532de8a374e" />
 <img width="1341" height="561" alt="image" src="https://github.com/user-attachments/assets/00770bd9-e964-4ab7-9709-bd01754762a5" />
+
 ## Proyectos Destacados
+
 <img width="1344" height="635" alt="image" src="https://github.com/user-attachments/assets/2f7b7261-4c7e-4451-9fca-2c919b25865a" />
 ## Contactos
 <img width="1344" height="635" alt="image" src="https://github.com/user-attachments/assets/98ded10f-845e-49f5-82b3-850e8e9ac757" />
