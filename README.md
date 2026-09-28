@@ -120,18 +120,6 @@ Los commits se hicieron por avance:
 - Interactividad en JavaScript (menú, tema, filtro, modal, formulario).
 - Ajustes de contenido y datos reales de contacto.
 
-## Publicar en GitHub Pages
-
-1. Crea un repositorio público en GitHub y sube el proyecto:
-
-   ```bash
-   git remote add origin https://github.com/TU-USUARIO/TU-REPO.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-2. En GitHub ve a **Settings → Pages → Source** y selecciona la rama `main` y la carpeta `/ (root)`.
-3. Espera a que se genere la URL pública: `https://TU-USUARIO.github.io/TU-REPO/`.
 
 ## Autor
 
