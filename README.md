@@ -9,6 +9,21 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 [Ver portafolio en GitHub Pages](https://anthonypataron2003.github.io/ANTHONY-PORTAFOLIO/)
 
 ## Tabla de contenido
+Sitio publicado
+Características
+Vista previa
+Inicio
+Tecnologías que domino
+Tecnologías y competencias
+Proyectos destacados
+Contacto
+Tecnologías
+Estructura del proyecto
+Secciones del sitio
+Funcionalidades JavaScript
+Cómo ejecutar el proyecto
+Control de versiones
+Autor
 
 ## Características
 
