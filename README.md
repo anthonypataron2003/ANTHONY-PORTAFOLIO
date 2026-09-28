@@ -10,18 +10,6 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 
 ## Tabla de contenido
 
-- [Sitio publicado](#sitio-publicado)
-- [Características](#características)
-- [Vista previa](#vista-previa)
-- [Tecnologías](#tecnologías)
-- [Estructura del proyecto](#estructura-del-proyecto)
-- [Secciones del sitio](#secciones-del-sitio)
-- [Funcionalidades JavaScript](#funcionalidades-javascript)
-- [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto)
-- [Control de versiones](#control-de-versiones)
-- [Publicar en GitHub Pages](#publicar-en-github-pages)
-- [Autor](#autor)
-
 ## Características
 
 - Diseño en tema oscuro (carbón + teal) con opción de tema claro.
@@ -35,8 +23,19 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 - Código separado en archivos de HTML, CSS y JavaScript.
 
 ## Vista previa
-
+## Incio
 <img width="1339" height="631" alt="image" src="https://github.com/user-attachments/assets/baac2110-ab11-4c74-a955-55b5eef031d7" />
+
+## Tecnologías Que Domino 
+<img width="1343" height="539" alt="image" src="https://github.com/user-attachments/assets/e4c68e5f-7d73-441f-8cf7-feb508f04b17" />
+
+## Tecnologías y Competencias 
+<img width="934" height="582" alt="image" src="https://github.com/user-attachments/assets/21375f90-4aa5-4011-8376-1532de8a374e" />
+<img width="1341" height="561" alt="image" src="https://github.com/user-attachments/assets/00770bd9-e964-4ab7-9709-bd01754762a5" />
+## Proyectos Destacados
+<img width="1344" height="635" alt="image" src="https://github.com/user-attachments/assets/2f7b7261-4c7e-4451-9fca-2c919b25865a" />
+## Contactos
+<img width="1344" height="635" alt="image" src="https://github.com/user-attachments/assets/98ded10f-845e-49f5-82b3-850e8e9ac757" />
 
 ## Tecnologías
 
