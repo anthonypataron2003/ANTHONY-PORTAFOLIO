@@ -137,7 +137,7 @@ Los commits se hicieron por avance:
 
 ## Autor
 
-** 👨 Anthony Pataron**
+**👨 Anthony Pataron**
 
 - GitHub:https://github.com/anthonypataron2003
 - Email: anthonypataron0@gmail.com
