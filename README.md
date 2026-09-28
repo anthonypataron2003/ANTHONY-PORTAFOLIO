@@ -6,7 +6,7 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 
 ## Sitio publicado
 
-[Ver portafolio en GitHub Pages](https://TU-USUARIO.github.io/TU-REPO/)
+[Ver portafolio en GitHub Pages](https://anthonypataron2003.github.io/ANTHONY-PORTAFOLIO/)
 
 ## Tabla de contenido
 
