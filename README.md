@@ -1,4 +1,4 @@
-# 💻 Portafolio Web | Anthony Pataron
+# 🚀 Portafolio Web | Anthony Pataron
 
 Portafolio web personal de **Anthony Pataron**, estudiante de Ingeniería en Software en la Universidad Estatal de Milagro (UNEMI). El sitio presenta información profesional, habilidades técnicas, proyectos destacados, un pequeño Design System y una sección de contacto.
 
