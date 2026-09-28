@@ -9,22 +9,21 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 [Ver portafolio en GitHub Pages](https://anthonypataron2003.github.io/ANTHONY-PORTAFOLIO/)
 
 ## Tabla de contenido
-Sitio publicado
-Características
-Vista previa
-Inicio
-Tecnologías que domino
-Tecnologías y competencias
-Proyectos destacados
-Contacto
-Tecnologías
-Estructura del proyecto
-Secciones del sitio
-Funcionalidades JavaScript
-Cómo ejecutar el proyecto
-Control de versiones
-Autor
-
+- [Sitio publicado](#sitio-publicado)
+- [Características](#características)
+- [Vista previa](#vista-previa)
+  - [Inicio](#inicio)
+  - [Tecnologías que domino](#tecnologías-que-domino)
+  - [Tecnologías y competencias](#tecnologías-y-competencias)
+  - [Proyectos destacados](#proyectos-destacados)
+  - [Contacto](#contacto)
+- [Tecnologías](#tecnologías)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Secciones del sitio](#secciones-del-sitio)
+- [Funcionalidades JavaScript](#funcionalidades-javascript)
+- [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto)
+- [Control de versiones](#control-de-versiones)
+- [Autor](#autor)
 ## Características
 
 - Diseño en tema oscuro (carbón + teal) con opción de tema claro.
