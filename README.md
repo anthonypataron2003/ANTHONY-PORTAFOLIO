@@ -37,7 +37,9 @@ El proyecto fue desarrollado con **HTML5 semántico, CSS propio (custom properti
 ## Proyectos Destacados
 
 <img width="1344" height="635" alt="image" src="https://github.com/user-attachments/assets/2f7b7261-4c7e-4451-9fca-2c919b25865a" />
+
 ## Contactos
+
 <img width="1344" height="635" alt="image" src="https://github.com/user-attachments/assets/98ded10f-845e-49f5-82b3-850e8e9ac757" />
 
 ## Tecnologías
