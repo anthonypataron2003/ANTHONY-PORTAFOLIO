@@ -1,4 +1,4 @@
-# Portafolio — Anthony
+# Portafolio|Anthony
 
 Portafolio web personal construido con HTML5 semántico, CSS propio (con variables/custom properties) y JavaScript nativo, sin frameworks ni build tools. Diseño en tema oscuro (carbón + teal) con opción de tema claro.
 
